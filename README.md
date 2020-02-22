@@ -4,3 +4,5 @@ Infra : AWS, Docker
 Frontend : Vue.js, html, css, javascript    
 Backend : Spring Framework    
 Database : Mysql db    
+  
+개발 홈페이지 : http://i02c105.p.ssafy.io
